@@ -12,7 +12,7 @@
 	<artifactId>soap-server-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>soap-server-poc</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for SOAP</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
